@@ -4,6 +4,8 @@ import java.util.*;
 import javax.swing.*;
 
 public class gamePaddle extends Rectangle {
+    int id;
+    int yVelocity;
 
     gamePaddle() {
 
