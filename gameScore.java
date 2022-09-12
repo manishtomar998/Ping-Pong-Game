@@ -3,9 +3,13 @@ import java.awt.event.*;
 import java.util.*;
 import javax.swing.*;
 
-public class gameScore {
-    
-    gameScore(){
-        
+public class gameScore extends Rectangle {
+
+    gameScore() {
+
+    }
+
+    public void draw(Graphics g) {
+
     }
 }
